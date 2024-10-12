@@ -1,4 +1,4 @@
-partner 
-
-more stuf
-ehuetuherf
+partner list
+SalesInc
+TheStartup
+ClosedML
